@@ -1,0 +1,244 @@
+INVESTMENT BANKING:
+
+a financial institution that raises capital, trades securities and manages corporate mergers and acquisitions.
+
+Profit from companies and governments by raising money through
+ issuing and selling securities in capital markets (both equity, debt)
+ and insuring bonds (e.g. selling credit default swaps),
+ and providing advice on transactions such as mergers and acquisitions
+
+A majority offer strategic advisory services for mergers, acquisitions, divestiture or
+ other financial services for clients, such as the trading of derivatives, fixed income, foreign exchange, commodity, and equity securities
+
+The Glass–Steagall Act, Stock Market Crash of 1929, prohibited banks from both accepting deposits and underwriting securities, 
+and led to segregation of investment banks from commercial banks
+
+Revenue-Generating Activities:
+Primary Market Making: Corporate Finance,Municipal Finance,Treasury and Agency Finance
+Financial Engineering:Zero Coupon Securities,Mortgage-Backed-Securities ,Derivative Products
+
+Buy Side:
+Dealing with the pension funds, mutual funds, hedge funds, and the investing public who consumed the products and services of the sell-side
+ in order to maximize their return on investment
+
+Sell Side:
+Trading securities for cash or securities (i.e.,  market-making, facilitating transactions)
+The promotion of securities (i.e., research, underwriting,   etc.)
+
+Support Activities :
+Middle Office:Risk Management (Market and Credit Risk),Corporate Treasury (Funding and Liquidity Risk Monitoring),Financial Controling ,Corporate Strategy,Compliance
+Back Office:Operations (Clearing),Information Technology
+
+Authorities that regulate investment banking (the FSA in the UK and the SEC in the US) require that banks impose a Chinese wall
+ which prohibits communication between investment banking on one side and equity research and trading on the other.
+
+Corporate Finance Transactions:
+Equity Offerings:Initial Public Offering (IPO),Secondary Market Offering (SEO)
+Mergers and Acquisitions:Takeover
+Leverage:Leveraged Buyouts,Bond Offering
+
+An IPO is the process by which a private company transforms itself into a public company. 
+The company offers, for the first time, shares of its equity (ownership) to the investing public. These shares subsequently trade on a public stock exchange
+
+Why IPO? to raise cash to fund the growth,
+cash out partially or entirely by selling ownership,
+to diversify net worth or to gain liquidity
+
+Pros:
+Stronger Capital Base
+Increases Financing prospects
+Better situated for acquisitions
+Owner Diversification
+Executive Compensation
+Increase company prestige
+
+Cons:
+Short-term growth pressure
+Disclosure and Confidentiality
+Costs – initial and ongoing
+Restrictions on Management
+Loss of personal benefits
+Trading Restrictions
+
+1st Step of an IPO:
+The Pitch (Pitchbook)
+the bank's reputation, which can lend the offering an aura of respectability
+• the performance of other IPOs managed by the bank
+• the prominence of a bank's research analyst in the industry, which can tacitly guarantee that the new
+public stock will receive favorable coverage by a listened-to stock expert
+• the bank's expertise as an underwriter in the industry
+
+2nd Step of an IPO:
+Underwriting: guarantee payment in case of damage or financial loss and accept the financial risk for liability arising from such guarantee
+form the syndicate and selling group for joint distribution of the offering
+Members of the syndicate make a firm commitment to distribute a certain percentage of the entire offering and are held financially responsible for any unsold portions
+Selling groups (“best effort”) of chosen brokerages, are formed to assist the syndicate members meet their obligations
+most common type of underwriting, firm commitment, the managing underwriter makes a commitment to the issuing corporation to purchase all shares being offered.
+ If part of the new issue goes unsold, any losses are distributed among the members of the syndicate.
+
+Pricing of an IPO:
+There are two ways in which the price of an IPO can be determined: 
+the company, with the help of its lead managers, fixes a price or
+the price is arrived at through the process of book building.
+
+Book Building is a process to aid price and demand discovery. It is a mechanism where, during the period for which the book for the offer is open, the bids are collected from investors at various prices, 
+which are within the price band specified by the issuer. The process is directed towards both the institutional as well as the retail investors. 
+The issue price is determined after the bid closure based on the demand generated in the process. In case of oversubscription the greenshoe  (over-allotment) option is triggered. 
+It can vary in size up to 15% of the original number of shares offered
+
+3rd Step of an IPO:
+Due Diligence and Drafting
+understanding the company's business as well as possible scenarios (Due Diligence)
+filing the legal Documents as required by the Regulator (Prospectus)
+Registration Statement:
+Business product/service/markets
+Company Information
+Risk Factors
+Proceeds Use 
+Officers and Directors
+Related party transactions
+Identification of your principal shareholders
+Audited financials
+
+4th Step of an IPO:
+Marketing
+“Roadshow” or “Baby Sitting”
+marketing phase ends with the placement of the stock
+gathering "indications of interest"
+An indication of interest does not obligate or bind the customer to purchase the issue, since all sales are prohibited until the security has cleared registration.
+final prospectus is issued
+The final prospectus contains all of the information in the preliminary prospectus (plus any amendments), as well as the final price of the issue, and the underwriting spread.
+
+Secondary Market Offering (SEO):
+A follow-on offering or SEO is an issuance of stock subsequent to the company's IPO. A SEO can be either of two types (or a mixture of both):
+ dilutive ("new" shares ) and non-dilutive ("old" shares ) (as rights issue). Furthermore it could be a cash issue or a capital increase in return for stock.
+The Process: no valuation is required (the market now values the firm's stock), Modifications to the prospectus and the roadshow
+Market Reaction : Dilution occurs because earnings per share (EPS) in the future will decline, simply based on the fact that more shares will exist post-deal. 
+And since EPS drives stock prices, the share price generally drops.
+
+Mergers & Acquisitions:
+Acquisition: Acquisition - When a larger company takes over another (smaller firm) and clearly becomes the new owner. Typically, the target company ceases to exist post-transaction 
+(from a legal corporation point of view) and the acquiring corporation swallows the business. The stock of the acquiring company continues to be traded.
+Merger: when two firms, often of about the same size, agree to go forward as a single new company rather than remain separately owned and operated. 
+This kind of action is more precisely referred to as a "merger of equals". Both companies' stocks are surrendered and new company stock is issued in its place.
+
+Types of Acquisitions:
+Friendly: the companies cooperate in negotiations
+Hostile: target is unwilling to be bought or the target's board has no prior knowledge of the offer
+Reverse Takeover: a smaller firm will acquire management control of a larger company and keep its name for the combined entity.
+Reverse Merger: a deal that enables a private company to get publicly listed in a short time period. It occurs when a private company that has strong prospects and is eager to raise financing buys a publicly listed shell company, usually one with no business and limited assets.
+
+Categories of Mergers:
+Congeneric: firms in the same general industry, but no mutual buyer/customer or supplier relationship, such as a merger between a bank and a leasing company. (i.e. Prudential's acquisition of Bache & Company)
+Conglomerate: companies that have no common business areas.
+Product-extension merger: Two companies selling different but related products in the same market (eg: a cone supplier merging with an ice cream maker).
+Consolidation mergers: a brand new company is formed and both companies are bought and combined under the new entity.
+Accretive mergers: are those in which an acquiring company's earnings per share (EPS) increase. An alternative way of calculating this is if a company with a high price to earnings ratio (P/E) acquires one with a low P/E.
+Dilutive mergers: are the opposite of above, whereby a company's EPS decreases. The company will be one with a low P/E acquiring one with a high P/E.
+
+Motives behind M&A:
+Economy of Scale
+Increased Revenue or Market Share
+Cross-Selling
+Synergy
+Taxation
+Diversification
+Vertical Integration
+Managers’s Hubris: manager's overconfidence about expected synergies from M&A which results in overpayment for the target company
+Empire-building: Managers have larger companies to manage and hence more power.
+Manager's compensation: certain executive management teams had their payout based on the total amount of profit of the company, instead of the profit per share, which would give the team a perverse incentive to buy companies to increase the total profit while decreasing the profit per share 
+
+Effects of M&A:
+Reasons for frequent failure of M&A: Despite the goal of performance improvement, results from mergers and acquisitions (M&A) are often disappointing. Numerous empirical studies show high failure rates of M&A deals. Studies are mostly focused on individual determinants.
+ The literature therefore lacks a more comprehensive framework that includes different perspectives. M&A performance is a multi-dimensional function. For a successful deal, the following key success factors should be taken into account:
+Strategic logic which is reflected by six determinants: market similarities, market complementarities, operational similarities, operational complementarities, market power, and purchasing power..
+Organizational integration which is reflected by three determinants: acquisition experience, relative size, cultural compatibility.
+Financial / price perspective which is reflected by three determinants: acquisition premium, bidding process, and due diligence.
+Post-M&A performance is measured by synergy realization, relative performance (compared to competition), and absolute performance.
+
+A study published in the July/August 2008 issue of the Journal of Business Strategy suggests that mergers and acquisitions destroy leadership continuity in target companies’ top management teams 
+for at least a decade following a deal. The study found that target companies lose 21 percent of their executives each year for at least 10 years following an acquisition – more than double the
+ turnover experienced in non-merged firms.
+
+M&A Advisory Services:
+M&A advising is highly profitable, and there are many possibilities for types of transactions.
+Perhaps a small private company's owner/manager wishes to sell out for cash and retire. 
+Or perhaps a big public firm aims to buy a competitor through a stock swap. 
+Whatever the case, M&A advisors come directly from the corporate finance departments of investment banks. 
+Unlike public offerings, merger transactions do not directly involve salespeople, traders or research analysts. 
+In particular, M&A advisory falls onto the laps of M&A specialists and fits into one of either two buckets: seller representation or buyer representation (also called target representation and acquirer representation).
+
+Representing the Target:
+An I-bank that represents a potential seller has a much greater likelihood of completing a transaction (and therefore being paid) than an I-bank that represents a potential acquirer. Also known as sell-side work, this type of advisory assignment is generated by a company that approaches an investment bank and asks the bank to find a buyer of either the entire company or a division. Often, sell-side representation comes when a company asks an investment bank to help it sell a division, plant or subsidiary operation. Generally speaking, the work involved in finding a buyer includes writing a Selling Memorandum and then
+contacting potential strategic or financial buyers of the client. If the client hopes to sell a semiconductor plant, for instance, the I-bankers will contact firms in that industry, as well as buyout firms that focus on purchasing technology or high-tech manufacturing operations.
+
+Representing the Acquirer:
+In advising sellers, the I-bank's work is complete once another party purchases the business up for sale, i.e., once another party buys your client's company or division or assets. Buy-side work is an entirely different animal. The advisory work itself is straightforward: the investment bank contacts the firm their client wishes to purchase, attempts to structure a palatable offer for all parties, and make the deal a reality. However, most of these proposals do not work out; few firms or owners are willing to readily sell their business. And because the I-banks primarily collect fees based on completed transactions, their work often goes unpaid. 
+
+Acquisition searches can last for months and produce nothing except associate and analyst fatigue as they repeatedly build merger models and work all-nighters. 
+Deals that do get done, though, are a boon for the I-bank representing the buyer because of their enormous profitability.
+
+The Lehman Scale is a traditional schedule of advisers’ chargeable fees. The scale is based on the transaction size of the deal, and is normally payable by the vendor(s) of the business 
+once the purchaser's funds have cleared.
+
+A leveraged buyout: (or LBO, or highly-leveraged transaction (HLT), or "bootstrap" transaction) occurs when a financial sponsor acquires a controlling interest in a company's equity and where a 
+significant percentage of the purchase price is financed through leverage (borrowing). The assets of the acquired company are used as collateral for the borrowed capital, sometimes with 
+assets of the acquiring company. The bonds or other paper issued for leveraged buyouts are commonly considered not to be investment grade because of the significant risks involved.
+
+Why LBO?
+The investor itself only needs to provide a fraction of the capital for the acquisition
+Assuming the economic internal rate of return on the investment exceeds the weighted average interest rate on the acquisition debt, returns to the financial sponsor will be significantly enhanced.
+
+As transaction sizes grow, the equity component of the purchase price can be provided by multiple financial sponsors "co-investing" to come up with the needed equity for a purchase. 
+Likewise, multiple lenders may band together in a "syndicate" to jointly provide the debt required to fund the transaction. Today, larger transactions are dominated by dedicated private equity firms 
+and a limited number of large banks with "financial sponsors" groups.
+
+Sales:
+Sales is a core area of any investment bank, comprising the vast majority of people and the relationships that account for a substantial portion of any investment banks revenues.
+
+Institutional Sales: manages the bank's relationships with institutional money managers such as mutual funds or pension funds. It is often called research sales, as salespeople focus on selling the firm's research to institutions.
+Retail Brokerage (account executives, financial advisors or financial consultants ): involves managing the account portfolios for individual investors - usually called retail investors. Brokers give advice to their clients regarding stocks to buy or sell, and when to buy or sell them.
+Private Client Services (PCS): A cross between institutional sales and retail brokerage, PCS focuses on providing money management services to extremely wealthy individuals.
+The Sales-trader: A hybrid between sales and trading, sales-traders essentially operate in a dual role as both salesperson and block trader. sales-traders typically cover the highlights and the big picture and they speak to the in-house traders of the buy-side. When specific questions arise, a sales-trader will often refer a client to the research analyst.
+
+Trading:
+Trading can make or break an investment bank. Without traders to execute buy and sell transactions, no public deal would get done, no liquidity would exist for securities, and
+ no commissions or spreads would accrue to the bank. Traders carry a "book" accounting for the daily revenue that they generate for the firm -down to the dollar!
+
+Market Making: quotes both a buy and a sell price in a financial instrument, hoping to make a profit on the bid/offer spread.
+Execution/Broker: Execution-only, which means that the broker will only carry out the client's instructions to buy or sell.
+Proprietary Trading: firm's traders actively trade financial instruments with its own money as opposed to its customers' money, so as to make a profit for itself (riskier and results in more volatile profits).
+
+Bond Offerings:
+The reasons for issuing bonds rather than stock are various. Perhaps the stock price of the issuer is down, and thus a bond issue is a better alternative. Or perhaps the firm does not wish to dilute its existing shareholders by issuing more equity. These are both valid reasons for issuing bonds rather than equity. Sometimes in down markets, investor appetite for public offerings dwindles to the point where an equity deal just could not get done (investors would not buy the issue).
+The bond offering process resembles the IPO process. The primary difference lies in: 
+(1) the focus of the prospectus (a prospectus for a bond offering will emphasize the company's stability and steady cash flow, whereas a stock prospectus will usually play up the company's growth and expansion opportunities), and 
+(2) the importance of the bond's credit rating (the company will want to obtain a favorable credit rating from a debt rating agency like S&P or Moody's, with the help of the credit department of the investment bank issuing the bond; the bank's credit department will negotiate with the rating agencies to obtain the best possible rating). Clearly, a firm issuing debt will want to have the highest possible bond rating, and hence pay a low interest rate.
+
+Syndicate:
+What does the syndicate department at an investment bank do? 
+Syndicate usually sits on the trading floor, but syndicate employees don't trade securities or sell them to clients. Neither do they bring in clients for corporate finance. What syndicate does is provide a vital role in placing stock or bond offerings with buysiders, and truly aim to find the right offering price that satisfies both the company, the salespeople, the investors and the corporate finance bankers working the deal. 
+In any public offering, syndicate gets involved once the prospectus is filed with the SEC. At that point, Syndicate associates begin to contact other investment banks interested in being underwriters in the deal. -> Syndicate Pros must be Politicians!
+
+Research :
+Intermediaries between companies and the buy-side, corporate finance and sales and trading, research analysts form the hub of investment banks.
+Analysts produce research ideas.
+Managers of research reports and 
+    the experts on their industries to the
+    outside world.
+Research analysts appear to be statisticians, it often comes closer  a diplomat or salesperson
+those in research face more external pressure than any other area in investment banking.
+
+The Future of Investment Banking:
+Financial Crisis and Effects!
+Sheer Size of Accumulated Losses 
+Toxic Assets
+No Mark-to-Market
+Leverage and Balance Sheet overstretch
+Cybernation and more efficient web-based solutions 
+Bonus Structure vs. Malus Structure
+Socialization of Losses vs. Individualization of Profits
+Constant Margin Pressure
+End of the Finance Cult!
+
+
